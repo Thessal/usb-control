@@ -1,0 +1,8 @@
+[package]
+name = "respeaker-led-off"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rusb = "0.9" # Rust wrapper for libusb
+
