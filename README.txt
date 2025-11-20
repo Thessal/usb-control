@@ -6,7 +6,7 @@ let
   respeaker-led-off = pkgs.callPackage (builtins.fetchGit {
     url = "https://github.com/Thessal/usb-control";
     ref = "main";
-    rev = "06fa2c468816f1411a1d49d7220f7b0c30ddc548";
+    rev = "d87f939999af17d8a1eb6b554ec19b8f1465b2d8";
   }) {};
 
 * Usage 
